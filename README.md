@@ -1,4 +1,4 @@
-#AWS Config service rules example
+# AWS Config service rules example
 
 ## Overview
 
